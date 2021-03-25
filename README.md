@@ -19,6 +19,8 @@ This section is a list of programs, frameworks or even IDE's that you need to ha
 -  [Visual Studio Code](https://code.visualstudio.com/)
 -  [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
 
+Programming Lenguage 
+- Python
 
 <!-- GETTING STARTED 
 ## Getting Started
