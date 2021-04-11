@@ -67,5 +67,5 @@ Contributions are what make the open source community such an amazing place to b
 ## Contact
 You can do an issue to give an advice or if you have a doubt ✌🏻
 
-## License
+## License 
 Distributed under the MIT License. See `LICENSE` for more information.
